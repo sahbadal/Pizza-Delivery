@@ -1,0 +1,60 @@
+[
+  {
+    "id": "5eee651f739f8c674fd736ee",
+    "name": "Margherita",
+    "image": "https://img.freepik.com/premium-photo/pizza-isolate-white-background-generative-ai_74760-2619.jpg",
+    "price": "250",
+    "size": "small"
+  },
+  {
+    "id": "5eee6671a27a66807cf2bea3",
+    "name": "Marinara",
+    "image": "https://thumbs.dreamstime.com/b/pepperoni-pizza-thinly-sliced-popular-topping-american-style-pizzerias-30402134.jpghttps://thumbs.dreamstime.com/b/pepperoni-pizza-thinly-sliced-popular-topping-american-style-pizzerias-30402134.jpg",
+    "price": "300",
+    "size": "medium"
+  },
+  {
+    "id": "5eee6692a27a66807cf2bea4",
+    "name": "Carbonara",
+    "image": "https://img.freepik.com/premium-photo/isolated-pizza-with-mushrooms-olives_219193-8149.jpg",
+    "price": "200",
+    "size": "small"
+  },
+  {
+    "id": "5eee66a5a27a66807cf2bea5",
+    "name": "Americana",
+    "image": "https://img.freepik.com/premium-photo/isolated-mexican-pizza-with-chorizo-jalapeno_219193-8204.jpg?w=740",
+    "price": "500",
+    "size": "large"
+  },
+  {
+    "id": "5eee66c4a27a66807cf2bea6",
+    "name": "Chicken Mushroom",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDvPBasF7VehCnct12o8vzRehhQGxLmM6_FLqxWKv4H34WnlyZZ2J98HuwABR6Vbm8iXo&usqp=CAU",
+    "price": "350",
+    "size": "medium"
+  },
+  {
+    "id": "5eee66cfa27a66807cf2bea7",
+    "name": "Paneer pizza",
+    "image": "https://img.freepik.com/premium-photo/pizza-isolate-white-background-generative-ai_74760-2619.jpg",
+    "price": "200",
+    "size": "small"
+  },
+  {
+    "id": "5eee66eea27a66807cf2bea8",
+    "name": "Vegies pizza",
+    "image": "https://static.vecteezy.com/system/resources/previews/024/589/160/original/top-view-pizza-with-ai-generated-free-png.png",
+    "price": "600",
+    "size": "large"
+  },
+  {
+    "id": "5eee6717a27a66807cf2bea9",
+    "name": "Pepperoni",
+    "image": "https://www.shutterstock.com/image-photo/pizza-transparent-png-slice-cheese-600w-2263284437.jpg",
+    "price": "500",
+    "size": "medium"
+  }
+  
+  
+]
